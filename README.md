@@ -2,6 +2,7 @@
 This project is an Exploratory Data Analysis (EDA) on global layoffs using SQL. The goal is to uncover trends, patterns, and insights into how layoffs have affected different companies, industries, and locations over time.
 
 *What This Project Covers*
+
 Basic Data Exploration: Retrieve all records to understand the dataset.
 
 Layoff Trends: Identify companies with the biggest single-day layoffs and total layoffs.
