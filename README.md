@@ -3,11 +3,17 @@ This project is an Exploratory Data Analysis (EDA) on global layoffs using SQL. 
 
 What This Project Covers
 Basic Data Exploration: Retrieve all records to understand the dataset.
+
 Layoff Trends: Identify companies with the biggest single-day layoffs and total layoffs.
+
 Industry & Location Impact: Analyze which industries and locations had the highest layoffs.
+
 Time-based Analysis: Track layoffs year by year and visualize rolling totals by month.
+
 Company-Specific Insights: Identify companies that laid off the highest percentage of employees.
+
 SQL Concepts Used
+
 Basic Queries: SELECT, WHERE, ORDER BY
 Aggregations: SUM(), MAX(), MIN()
 Grouping & Ranking: GROUP BY, DENSE_RANK(), PARTITION BY
